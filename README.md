@@ -8,4 +8,4 @@ Learn the fundamentals of React, including simple and class components, state, p
 
 The code is open source and available under the [MIT License](LICENSE).
 
-Written by [Tania Rascia](https://www.taniarascia.com).
+Written by [Tania Rascia](https://www.taniarascia.com).# reactnewapp
